@@ -1,0 +1,2 @@
+SELECT AVG(duration) AS average_assistance_request_duration
+FROM assistance_requests;
